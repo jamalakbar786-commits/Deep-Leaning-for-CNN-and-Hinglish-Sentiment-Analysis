@@ -1,0 +1,5 @@
+https://fasttext.cc/docs/en/english-vectors.html
+
+Download: wiki-news-300d-1M-subword.vec.zip
+
+wiki-news-300d-1M-subword.vec
